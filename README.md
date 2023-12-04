@@ -37,3 +37,8 @@ As part of our non-functional requirements, we have the following processes:
 
 2] Availability - The use of cloud platform like AWS ensures scalability and availability of our data.
 
+Find the architecture diagram and other scripts in the project.
+
+# Dataset
+
+I have made use of the data from Kaggle. https://www.kaggle.com/datasets/datasnaek/youtube-new/
